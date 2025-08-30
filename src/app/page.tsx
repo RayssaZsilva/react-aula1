@@ -9,6 +9,7 @@ export default function Home() {
     {/* <div className="block text-[#8B8989]"></div> */}
     <div  className="w-[150px] bg-[#c8a2c8]-500 hover:bg-[#c8a2c8]-600 text-[#8B8989] font-bold py-2 px-4 rounded">
       <a href="/produto">Ver produto</a></div>
+ 
     </>
     //npm run dev   rodar no navegador pelo terminal
     //tailwindcss site para estilizar o 7,8
